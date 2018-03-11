@@ -6,4 +6,4 @@ A chat build with vue-cli, bootstrap and firebase.
 
 npm i
 
-npm run serbe
+npm run serve
